@@ -1,0 +1,5 @@
+ps -A | grep -i stress (|xargs kill -9)
+kill -9 2583 2584
+_______________________
+ps -A | grep -i stress | xargs -i kill -9
+
