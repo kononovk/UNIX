@@ -1,4 +1,6 @@
-6a) 
+6a) git diff
+    Для индексированных git diff —staged
+
 6b) Скачать все ветки с origin, но не мержить их в локальный репозиторий:
     git fetch origin
 
